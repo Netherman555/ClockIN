@@ -19,3 +19,7 @@ Like the license says, anybody can use this for just about any purpose, I don't 
 applicable, but if you don't, hey, it's not like I get payed for it, so go ahead and be a little sh*t (just kidding).
 
 Anyway, thanks for taking interest in the project, and please be sure to tell me if it goes wrong.
+
+HOW TO COMPILE:
+You need to use g++ to compile this, like any multi-file program.  Just use 'cd' to get to the file directory and then this:
+g++ getTime.cpp main.cpp -o ClockIN.exe
